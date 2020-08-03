@@ -1,5 +1,5 @@
 ![image](https://github.com/Shadezs/Shadezs/blob/master/dino.gif)
-### Hi there 👋
+### Hi there 👋 My name is Carlos Davila
 - 🔭 I’m currently working on personal projects 
 - 🌱 I’m currently learning REACT , Firesbase , NODE.JS
 - 👯 I’m looking to collaborate on personal chat app
