@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image]()
+![image](https://github.com/Shadezs/Shadezs/blob/master/dino.gif)
 
 - 🔭 I’m currently working on personal projects 
 - 🌱 I’m currently learning REACT , Firesbase , NODE.JS
